@@ -1,0 +1,15 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "technical",
+        "2": "productivity"
+    },
+    "demo_page": "https://minimum-studio.bubbleapps.io/timezone",
+    "description": "Super lightweight plugin that simply returns the users current timezone and locale, according to their device.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1622498031959x630036154862003100/timezone.svg",
+    "license": "open_source",
+    "link": "https://minimum.studio/plugins",
+    "name": "Current Timezone",
+    "plugin_instructions": "Check out the full plugin documentation at https://www.notion.so/minimumstudio/Timezone-79998b449aa3419cb8c17d6d7dd9dacf",
+    "sa_node_version": 18
+}
